@@ -1,6 +1,5 @@
 from tkinter.ttk import *
 from tkinter import *
-from PIL import ImageTk, Image
 def date():
     from datetime import datetime
     # current date time
