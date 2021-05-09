@@ -10,3 +10,10 @@ Now, Delete that code after successfull execution of main project file(.py)
 
 Step 3
 Now, Add The main code of Hostel Management System to your project file(.py)
+
+----------------------------------------------------
+
+Use this username and password
+
+Username = ShaileshGodghase
+Password = 31052001
